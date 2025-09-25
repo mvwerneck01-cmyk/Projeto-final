@@ -1,0 +1,24 @@
+#banner{ 
+        width: 1440px;
+        height: 700px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        background-color:#f5f3f0;
+}
+img{ width: 365px;
+     height: 365px;
+     margin-top: 180px;
+     margin-left: 165px;
+    }
+.text-banner{ 
+             margin-top: 180px;
+             margin-right: 165px;
+            }
+
+a{
+   background-color: #0699A6;
+   padding: 24px 101px;
+   color: white;
+   text-decoration: none;
+  }
