@@ -155,13 +155,11 @@ body,html{
             max-width: 100%;
             flex-direction: column;
             gap: 30px;
-            padding: 10px; 
         }
       
         #banner{
             width: 100%;
             text-align: center;
-            padding: 10px; 
         }
       
         .foto1{
@@ -184,13 +182,11 @@ body,html{
         flex-direction: column;
         flex-wrap: wrap;
         margin: auto;
-        padding: 10px;
     }
     .aside{
         width: 100%;
         flex-direction: column;
-        margin: auto;  
-        padding: 10px;      
+        margin: auto;       
     }
 
     #footer{
@@ -198,7 +194,6 @@ body,html{
         height: auto;
         width: 100%;
         padding-bottom: 80px;
-        padding: 10px; 
     }
     .tega{
         width: 100%;
