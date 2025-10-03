@@ -177,6 +177,10 @@ body,html{
             margin-left: 10px;
         }
 /*CORPO MAIN*/
+.main{
+    padding: 0 16px;
+    box-sizing: border-box;
+     }
 .about{
         width: 100%;
         flex-direction: column;
