@@ -176,11 +176,13 @@ body,html{
             padding: 20px 60px;
             margin-left: 10px;
         }
+        .main{
+            padding: 0 16px;
+            box-sizing: border-box;
+        }
+
 /*CORPO MAIN*/
-.main{
-    padding: 0 16px;
-    box-sizing: border-box;
-     }
+
 .about{
         width: 100%;
         flex-direction: column;
